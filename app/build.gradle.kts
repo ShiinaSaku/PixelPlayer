@@ -1,6 +1,6 @@
 plugins {
     alias(libs.plugins.android.application)
-    id("com.google.devtools.ksp") version "2.1.0-1.0.29"
+    id("com.google.devtools.ksp") version "2.3.4"
     alias(libs.plugins.compose.compiler)
     alias(libs.plugins.dagger.hilt.android)
     kotlin("plugin.serialization") version "2.1.0"
